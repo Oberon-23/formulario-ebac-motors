@@ -39,8 +39,7 @@ Foi criado com o objetivo de exercitar a estruturação de formulários em HTML 
 
 ## 🚀 Como visualizar
 
-Você pode visualizar o projeto clicando [aqui](https://oberon-23.github.io/formulario-ebac-motors/)  
-Ou clonar o repositório:
+Clonar o repositório:
 
 ```bash
 git clone https://github.com/Oberon-23/formulario-ebac-motors.git
